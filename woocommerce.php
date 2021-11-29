@@ -327,7 +327,7 @@ body.theme-smartic{--e-global-color-primary:#30aece;--primary:#30aece;--primary_
 <div class="elementor-element elementor-element-e4ffeb2 elementor-widget elementor-widget-text-editor" data-id="e4ffeb2" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <div class="elementor-text-editor elementor-clearfix">
-<div><a style:"var(--primary)" href="#">Frete Grátis Para Todo Brasil</a></div> </div>
+<div><a style:"var(--primary)" href="#" id="demo">Carregando oferta, por favor aguarde...</a></div> </div>
 </div>
 </div>
 </div>
@@ -356,7 +356,7 @@ body.theme-smartic{--e-global-color-primary:#30aece;--primary:#30aece;--primary_
 <div class="elementor-widget-container">
 <div class="elementor-image">
 <a href="#">
-<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="attachment-full size-full" alt="Smartic" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/logo130.png" /><noscript><img src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2020/10/logo_white.svg" class="attachment-full size-full" alt="Smartic" /></noscript> </a>
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" class="attachment-full size-full" alt="Smartic" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/a8original_logo.webp" /><noscript><img src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2020/10/logo_white.svg" class="attachment-full size-full" alt="Smartic" /></noscript> </a>
 </div>
 </div>
 </div>
@@ -853,7 +853,7 @@ New York 10010 </div>
 <rs-group id="slider-18-slide-19-layer-3" data-type="group" data-xy="x:l,l,c,c;xo:535px,96px,0,0;y:m,m,t,t;yo:50px,0,90px,95px;" data-text="s:20,10,20,20;l:22,11,22,22;a:inherit,inherit,center,center;" data-dim="w:464px,434px,714px,467px;h:382px,352px,250px,350px;" data-frame_0="x:-100%;o:1;" data-frame_0_mask="u:t;" data-frame_1="sp:1500;sR:10;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7490;sA:9000;" style="z-index:12;"><rs-layer id="slider-18-slide-19-layer-2" data-type="text" data-xy="x:l,l,c,c;" data-text="s:12;l:22;ls:0px,0px,1px,1px;fw:600,600,500,500;a:inherit,inherit,center,center;" data-rsp_bd="off" data-frame_1="st:170;sp:880;sR:160;" data-frame_999="o:0;st:w;sR:7950;" style="z-index:9;font-family:" BROmny";text-transform:uppercase;">DIGA ADEUS AOS CABOS
 </rs-layer><rs-layer id="slider-18-slide-19-layer-4" data-type="text" data-rsp_ch="on" data-xy="x:l,l,c,c;xo:0,0,0,-1px;yo:48px,48px,35px,46px;" data-text="w:normal;s:60,60,50,50;l:60,60,60,50;fw:300;a:inherit,inherit,center,center;" data-dim="w:440px,440px,546px,443px;h:213px,213px,auto,182px;" data-frame_1="st:670;sp:850;sR:660;" data-frame_999="o:0;st:w;sR:7480;" style="z-index:10;font-family:Barlow;">Mais liberdade e diversão com esse sistema wireless
 <a href="http://asiahub.com.br/cart/?add-to-cart=3258"></rs-layer><rs-layer id="slider-18-slide-19-layer-5" class="rev-btn" data-type="button" data-color="#fff" data-xy="x:l,l,c,c;y:t,t,b,b;yo:300px,280px,0,0;" data-text="s:14;l:55;fw:700,700,500,500;a:inherit;" data-rsp_bd="off" data-padding="r:40;l:40;" data-border="bor:4px,4px,4px,4px;" data-frame_1="st:1040;sp:870;sR:1030;" data-frame_999="o:0;st:w;sR:7090;" data-frame_hover="c:#fff;bgc:#31AE74;boc:#000;bor:4px,4px,4px,4px;bos:solid;oX:50;oY:50;sp:0;e:none;" style="z-index:11;background-color:#41C286;font-family:" BROmny";cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;">Comprar Agora</a>
-</rs-layer></rs-group><rs-layer id="slider-18-slide-19-layer-1" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:0,0,-275px,-240px;y:t,b,t,t;yo:275px,0,365px,475px;" data-text="l:22;a:inherit;" data-dim="w:1920px,1920px,1572px,1461px;h:666px,666px,595px,553px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;y:100%;" data-frame_1="e:power2.inOut;st:520;sp:1280;sR:520;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7200;" style="z-index:8;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%20666'%3E%3C/svg%3E" class="tp-rs-img" width="1920" height="666" data-no-retina data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/a8original_header.png"><noscript><img src="//demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/Layer-1.png" class="tp-rs-img" width="1920" height="666" data-no-retina></noscript>
+</rs-layer></rs-group><rs-layer id="slider-18-slide-19-layer-1" data-type="image" data-rsp_ch="on" data-xy="x:c;xo:0,0,-275px,-240px;y:t,b,t,t;yo:275px,0,365px,475px;" data-text="l:22;a:inherit;" data-dim="w:1920px,1920px,1572px,1461px;h:666px,666px,595px,553px;" data-frame_0="y:100%;" data-frame_0_mask="u:t;y:100%;" data-frame_1="e:power2.inOut;st:520;sp:1280;sR:520;" data-frame_1_mask="u:t;" data-frame_999="o:0;st:w;sR:7200;" style="z-index:8;"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%20666'%3E%3C/svg%3E" class="tp-rs-img" width="1920" height="666" data-no-retina data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/a8original_header.webp"><noscript><img src="//demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/Layer-1.png" class="tp-rs-img" width="1920" height="666" data-no-retina></noscript>
 </rs-layer> </rs-slide>
 </rs-slides>
 </rs-module>
@@ -1091,8 +1091,8 @@ menos de 4 ms</h4> </div>
 <div class="elementor-widget-container">
 <div class="smartic-image-comparison-contents-wrapper smartic-twentytwenty-wrapper">
 <div id="smartic-image-comparison-contents-wrapper-3d4f899" class="smartic-images-compare-container smartic-twentytwenty-container" data-settings="{&quot;orientation&quot;:&quot;horizontal&quot;,&quot;visibleRatio&quot;:0.5,&quot;switchBefore&quot;:true,&quot;beforeLabel&quot;:&quot;&quot;,&quot;switchAfter&quot;:true,&quot;afterLabel&quot;:&quot;&quot;,&quot;mouseMove&quot;:false,&quot;clickMove&quot;:true,&quot;showDrag&quot;:true,&quot;showSep&quot;:true,&quot;overlay&quot;:true,&quot;beforePos&quot;:&quot;middle&quot;,&quot;afterPos&quot;:&quot;middle&quot;,&quot;verbeforePos&quot;:null,&quot;verafterPos&quot;:null}">
-<img width="970" height="640" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20970%20640'%3E%3C/svg%3E" alt="" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/musico.jpeg"><noscript><img width="970" height="640" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_before.png" alt=""></noscript>
-<img width="970" height="640" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20970%20640'%3E%3C/svg%3E" alt="" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/musico.jpeg"><noscript><img width="970" height="640" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_after.png" alt=""></noscript>
+<img width="970" height="640" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20970%20640'%3E%3C/svg%3E" alt="" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/musico.webp"><noscript><img width="970" height="640" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_before.png" alt=""></noscript>
+<img width="970" height="640" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20970%20640'%3E%3C/svg%3E" alt="" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/musico.webp"><noscript><img width="970" height="640" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_after.png" alt=""></noscript>
 </div>
 </div>
 </div>
@@ -1112,7 +1112,7 @@ menos de 4 ms</h4> </div>
 <div class="elementor-element elementor-element-a9fd262 animated-fast elementor-invisible elementor-widget elementor-widget-image" data-id="a9fd262" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;opal-move-up&quot;,&quot;_animation_delay&quot;:100}" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="478" height="735" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20478%20735'%3E%3C/svg%3E" class="elementor-animation-sink attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/phone_guitar-1.png" data-lazy-sizes="(max-width: 478px) 100vw, 478px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/phone_guitar-1.png" /><noscript><img width="478" height="735" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3.png" class="elementor-animation-sink attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3.png 478w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3-195x300.png 195w" sizes="(max-width: 478px) 100vw, 478px" /></noscript> </div>
+<img width="478" height="735" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20478%20735'%3E%3C/svg%3E" class="elementor-animation-sink attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/phone_guitar.webp" data-lazy-sizes="(max-width: 478px) 100vw, 478px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/phone_guitar.webp" /><noscript><img width="478" height="735" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3.png" class="elementor-animation-sink attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3.png 478w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_niche_14_img-3-195x300.png 195w" sizes="(max-width: 478px) 100vw, 478px" /></noscript> </div>
 </div>
 </div>
 </div>
@@ -1288,7 +1288,7 @@ Transmissão de som original UHF de 730mhz, anti-interferência e atraso ultracu
 <div class="elementor-element elementor-element-43f311d elementor-widget elementor-widget-image" data-id="43f311d" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_effect&quot;:&quot;yes&quot;,&quot;motion_fx_mouseTrack_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="434" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20434%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-caixa-1.png" data-lazy-sizes="(max-width: 434px) 100vw, 434px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-caixa-1.png" /><noscript><img width="434" height="554" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6.jpg" class="attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6.jpg 434w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6-235x300.jpg 235w" sizes="(max-width: 434px) 100vw, 434px" /></noscript> </div>
+<img width="434" height="554" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20434%20554'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-caixa.webp" data-lazy-sizes="(max-width: 434px) 100vw, 434px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-caixa.webp" /><noscript><img width="434" height="554" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6.jpg" class="attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6.jpg 434w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-6-235x300.jpg 235w" sizes="(max-width: 434px) 100vw, 434px" /></noscript> </div>
 </div>
 </div>
 </div>
@@ -1370,7 +1370,7 @@ Transmissão de som original UHF de 730mhz, anti-interferência e atraso ultracu
 <div class="elementor-element elementor-element-160e250 elementor-widget elementor-widget-text-editor" data-id="160e250" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
 <div class="elementor-text-editor elementor-clearfix">
-<p>Modelo: A8 Originalsound;<br />Faixa de resposta de áudio: 20hz-20khz;<br />Frequência: UHF 730mhz;<br />Faixa de transmissão: máx. 50m (sem obstáculo); 30m (através da parede);<br />Atraso de transmissão: menos de 4ms. <br /></p> </div>
+<p>Modelo: A8 Original sound;<br />Faixa de resposta de áudio: 20hz-20khz;<br />Frequência: UHF 730mhz;<br />Faixa de transmissão: máx. 50m (sem obstáculo); 30m (através da parede);<br />Atraso de transmissão: menos de 4ms. <br /></p> </div>
 </div>
 </div>
 <div class="elementor-element elementor-element-0eb7b98 elementor-widget elementor-widget-heading" data-id="0eb7b98" data-element_type="widget" data-widget_type="heading.default">
@@ -1414,9 +1414,6 @@ FOV: 100.2 degree </div>
 <div class="elementor-text-editor elementor-clearfix">
 Origem: China;<br>
 Prazo de recebimento: de 3 a 7 semanas;<br>
-Estimativa de prazo de entrega por região:<br>
-– Sul e Sudeste: 15-22 dias úteis;<br>
-– Centro-Oeste, Norte e Nordeste: 22-32 dias úteis;<br>
 Entregue pelos Correios. </div>
 </div>
 </div>
@@ -1509,7 +1506,7 @@ Conteúdo da Embalagem: <br>
 <div class="elementor-element elementor-element-dc4f357 elementor-widget elementor-widget-image" data-id="dc4f357" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="342" height="521" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20342%20521'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-dupla-1.png" data-lazy-sizes="(max-width: 342px) 100vw, 342px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-dupla-1.png" /><noscript><img width="342" height="521" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2.png" class="attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2.png 342w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2-197x300.png 197w" sizes="(max-width: 342px) 100vw, 342px" /></noscript> </div>
+<img width="342" height="521" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20342%20521'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-dupla.webp" data-lazy-sizes="(max-width: 342px) 100vw, 342px" data-lazy-src="https://asiahub.com.br/wp-content/uploads/2021/11/A8-Original-dupla.webp" /><noscript><img width="342" height="521" src="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2.png" class="attachment-full size-full" alt="" srcset="https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2.png 342w, https://demo2wpopal.b-cdn.net/smartic/wp-content/uploads/2021/04/home-14_img-2-197x300.png 197w" sizes="(max-width: 342px) 100vw, 342px" /></noscript> </div>
 </div>
 </div>
 </div>
@@ -2182,6 +2179,36 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/demo2.wpopal.com\/smartic
 if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
 images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
 if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://demo2wpopal.b-cdn.net/smartic/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js"></script>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jan 5, 2022 00:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = "Preço com desconto de 50% e FRETE GRÁTIS termina em  " + hours + "h " + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTHNR2B"
